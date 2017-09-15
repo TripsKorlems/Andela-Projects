@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="divider_height">2dp</dimen>
+    <dimen name="empty_textView_margin_top">40dp</dimen>
+    <dimen name="empty_textView_text_size">25sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="user_name_text_size">25sp</dimen>
+    <dimen name="user_name_text_size_for_list">20sp</dimen>
+    <dimen name="detail_image_size">240dp</dimen>
+    <dimen name="profile_url_font_size">15sp</dimen>
+    <dimen name="avatar_size">120dp</dimen>
+</resources>

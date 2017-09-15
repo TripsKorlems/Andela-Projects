@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Andela Project</string>
+    <string name="empty_view">No Connection</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="action_share">Share</string>
+    <string name="action_settings">Settings</string>
+    <string name="avatar_description">avatar for users</string>
+</resources>
